@@ -1,3 +1,7 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
 .button1 {
     background-color:grey;
 }
@@ -8,4 +12,17 @@
 
 .button3 {
     background-color: whitesmoke;
+}
+
+.buttonhome{
+    background-color: greenyellow;
+}
+
+.ingredientlist{
+    font-weight: bold;
+}
+
+.steplist{
+    /* what are you doing, step-list?! (⸝⸝⸝O﹏ O⸝⸝⸝) */
+    font-style: italic;
 }
